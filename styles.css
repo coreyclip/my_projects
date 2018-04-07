@@ -1,0 +1,12 @@
+<style>
+body {background-color: olive;}
+h1   {color: white;
+      font-family:'arial'}
+span {
+    text-decoration: underline;
+    color: beige;
+}
+
+span{ 
+    color: orange;
+}
